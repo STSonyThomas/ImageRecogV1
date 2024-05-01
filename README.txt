@@ -1,0 +1,2 @@
+Run only the predictingFP.py file. It will predict if you are Interested or Distracted. Intersted if you are Happy or Sad or Tensed. Else Distracted.
+Name your video file as "trial2.webm" the file should be in webm format and if you want live video then you need to replace the file name with the number 0.
